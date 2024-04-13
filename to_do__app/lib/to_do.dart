@@ -88,7 +88,7 @@ class _ToDoApppState extends State<ToDoAppp> {
                                       height: 10,
                                     ),
                                     SizedBox(
-                                      width: 260,
+                                      width: 255,
                                       child: Text(
                                         dispData[index].maptitle,
                                         style: GoogleFonts.quicksand(
@@ -101,7 +101,7 @@ class _ToDoApppState extends State<ToDoAppp> {
                                       height: 10,
                                     ),
                                     SizedBox(
-                                      width: 260,
+                                      width: 255,
                                       child: Text(
                                         dispData[index].mapdescription,
                                         style: GoogleFonts.quicksand(
