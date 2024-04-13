@@ -4,7 +4,7 @@ import 'package:weather/weather.dart';
 import 'package:weather_app_tutorial/consts.dart';
 
 class WhetherPage extends StatefulWidget {
-  const WhetherPage({Key? key});
+  const WhetherPage({super.key});
 
   @override
   State<WhetherPage> createState() => _WhetherPageState();
