@@ -16,6 +16,7 @@ class _WhetherPageState extends State<WhetherPage> {
   Weather? _currentWeather;
   List<Weather>? _forecast;
 
+//initState
   @override
   void initState() {
     super.initState();
